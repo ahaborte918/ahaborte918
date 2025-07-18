@@ -7,12 +7,12 @@
   - [osTicket: Prerequisites and Installation](https://github.com/ahaborte918/osticket-prereqs)                                                                          
   - [osTicket: Post-Installation Configuration](https://github.com/haborte918/post-installation-config)                                                                       
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ahaborte918/ticket-lifecycle)
-    
+  
 - Microsoft Azure
-  -  [Creating a Virtual Machine from Scratch](https://github.com/ahaborte918/Virtual-machine)
+  - [Creating a Virtual Machine from Scratch](https://github.com/ahaborte918/Virtual-machine)
 
 - Virtual Private Network
-  -  [Analyzing VPN Setup and Usuage within Microsoft Azure](https://github.com/ahaborte918/VPN)
+  - [Analyzing VPN Setup and Usuage within Microsoft Azure](https://github.com/ahaborte918/VPN)
  
 
 <h2> 🤳 Connect with me:</h2>
