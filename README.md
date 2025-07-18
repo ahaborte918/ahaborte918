@@ -4,7 +4,6 @@
 <div style="clear: both;"></div>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-
   - [osTicket: Prerequisites and Installation](https://github.com/ahaborte918/osticket-prereqs)                                                                          
   - [osTicket: Post-Installation Configuration](https://github.com/haborte918/post-installation-config)                                                                                
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ahaborte918/ticket-lifecycle)
