@@ -10,7 +10,7 @@
 - Microsoft Azure
   - [Creating a Virtual Machine from Scratch](https://github.com/ahaborte918/Virtual-Machine)
 - Virtual Private Network
-  - [Analyzing VPN Setup and Usuage within Microsoft Azure](https://github.com/ahaborte918/VPN)
+  - [Analyzing VPN Setup and Usage within Microsoft Azure](https://github.com/ahaborte918/VPN)
  
 
 <h2> 🤳 Connect with me:</h2>
